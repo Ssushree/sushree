@@ -1,0 +1,663 @@
+Training Start:Thu, 13 Jul 2023 07:48:22 +0000
+
+Generative Model Training Start:Thu, 13 Jul 2023 07:48:23 +0000
+Iter-[200/66000]; loss: 43.081; kl:7.507; p_loss:0.038; rec:0.032; tc:0.832; gamma:0.000;
+Iter-[400/66000]; loss: 37.098; kl:8.246; p_loss:0.038; rec:0.024; tc:0.832; gamma:0.000;
+GZSL Softmax:
+U->T 23.79%  S->T 79.39%  H 36.60%  Best_H [79.39% 23.79% 36.60% | Iter-400]
+Iter-[600/66000]; loss: 28.914; kl:29.399; p_loss:0.036; rec:0.018; tc:0.832; gamma:0.001;
+Iter-[800/66000]; loss: 25.145; kl:36.056; p_loss:0.038; rec:0.016; tc:0.832; gamma:0.001;
+GZSL Softmax:
+U->T 38.25%  S->T 67.16%  H 48.74%  Best_H [67.16% 38.25% 48.74% | Iter-800]
+Iter-[1000/66000]; loss: 22.184; kl:45.736; p_loss:0.038; rec:0.014; tc:0.832; gamma:0.001;
+Iter-[1200/66000]; loss: 18.162; kl:49.127; p_loss:0.040; rec:0.011; tc:0.832; gamma:0.001;
+GZSL Softmax:
+U->T 39.53%  S->T 70.49%  H 50.65%  Best_H [70.49% 39.53% 50.65% | Iter-1200]
+Iter-[1400/66000]; loss: 17.567; kl:51.722; p_loss:0.041; rec:0.011; tc:0.832; gamma:0.001;
+Iter-[1600/66000]; loss: 15.963; kl:49.223; p_loss:0.038; rec:0.009; tc:0.832; gamma:0.001;
+GZSL Softmax:
+U->T 41.74%  S->T 69.70%  H 52.21%  Best_H [69.70% 41.74% 52.21% | Iter-1600]
+Iter-[1800/66000]; loss: 14.542; kl:51.187; p_loss:0.038; rec:0.009; tc:0.832; gamma:0.002;
+Iter-[2000/66000]; loss: 13.565; kl:47.730; p_loss:0.035; rec:0.008; tc:0.831; gamma:0.002;
+GZSL Softmax:
+U->T 44.92%  S->T 66.62%  H 53.66%  Best_H [66.62% 44.92% 53.66% | Iter-2000]
+Iter-[2200/66000]; loss: 13.031; kl:46.742; p_loss:0.037; rec:0.008; tc:0.830; gamma:0.002;
+Iter-[2400/66000]; loss: 12.832; kl:48.117; p_loss:0.036; rec:0.007; tc:0.829; gamma:0.002;
+GZSL Softmax:
+U->T 48.35%  S->T 65.40%  H 55.59%  Best_H [65.40% 48.35% 55.59% | Iter-2400]
+Iter-[2600/66000]; loss: 12.255; kl:45.375; p_loss:0.037; rec:0.007; tc:0.827; gamma:0.002;
+Iter-[2800/66000]; loss: 12.566; kl:41.603; p_loss:0.035; rec:0.007; tc:0.823; gamma:0.003;
+GZSL Softmax:
+U->T 48.54%  S->T 66.80%  H 56.23%  Best_H [66.80% 48.54% 56.23% | Iter-2800]
+Iter-[3000/66000]; loss: 12.810; kl:44.659; p_loss:0.039; rec:0.007; tc:0.823; gamma:0.003;
+Iter-[3200/66000]; loss: 12.317; kl:42.267; p_loss:0.038; rec:0.007; tc:0.821; gamma:0.003;
+GZSL Softmax:
+U->T 49.61%  S->T 68.52%  H 57.55%  Best_H [68.52% 49.61% 57.55% | Iter-3200]
+Iter-[3400/66000]; loss: 12.384; kl:42.616; p_loss:0.038; rec:0.007; tc:0.820; gamma:0.003;
+Iter-[3600/66000]; loss: 11.758; kl:38.609; p_loss:0.037; rec:0.006; tc:0.822; gamma:0.003;
+GZSL Softmax:
+U->T 51.01%  S->T 66.57%  H 57.76%  Best_H [66.57% 51.01% 57.76% | Iter-3600]
+Iter-[3800/66000]; loss: 11.851; kl:40.061; p_loss:0.036; rec:0.006; tc:0.815; gamma:0.003;
+Iter-[4000/66000]; loss: 11.552; kl:39.804; p_loss:0.034; rec:0.006; tc:0.818; gamma:0.004;
+GZSL Softmax:
+U->T 52.74%  S->T 64.34%  H 57.97%  Best_H [64.34% 52.74% 57.97% | Iter-4000]
+Iter-[4200/66000]; loss: 12.490; kl:41.541; p_loss:0.037; rec:0.007; tc:0.817; gamma:0.004;
+Iter-[4400/66000]; loss: 12.000; kl:41.151; p_loss:0.037; rec:0.006; tc:0.818; gamma:0.004;
+GZSL Softmax:
+U->T 53.45%  S->T 65.31%  H 58.79%  Best_H [65.31% 53.45% 58.79% | Iter-4400]
+Iter-[4600/66000]; loss: 11.666; kl:36.168; p_loss:0.035; rec:0.006; tc:0.818; gamma:0.004;
+Iter-[4800/66000]; loss: 10.761; kl:36.550; p_loss:0.037; rec:0.006; tc:0.822; gamma:0.004;
+GZSL Softmax:
+U->T 53.21%  S->T 67.52%  H 59.52%  Best_H [67.52% 53.21% 59.52% | Iter-4800]
+Iter-[5000/66000]; loss: 11.835; kl:36.425; p_loss:0.033; rec:0.006; tc:0.819; gamma:0.005;
+Iter-[5200/66000]; loss: 12.610; kl:35.264; p_loss:0.034; rec:0.007; tc:0.820; gamma:0.005;
+GZSL Softmax:
+U->T 53.42%  S->T 66.76%  H 59.35%  Best_H [67.52% 53.21% 59.52% | Iter-4800]
+Iter-[5400/66000]; loss: 11.636; kl:37.221; p_loss:0.033; rec:0.006; tc:0.821; gamma:0.005;
+Iter-[5600/66000]; loss: 11.962; kl:35.987; p_loss:0.034; rec:0.006; tc:0.821; gamma:0.005;
+GZSL Softmax:
+U->T 52.64%  S->T 69.42%  H 59.88%  Best_H [69.42% 52.64% 59.88% | Iter-5600]
+Iter-[5800/66000]; loss: 11.087; kl:34.102; p_loss:0.030; rec:0.005; tc:0.820; gamma:0.005;
+Iter-[6000/66000]; loss: 10.394; kl:32.864; p_loss:0.029; rec:0.005; tc:0.820; gamma:0.005;
+GZSL Softmax:
+U->T 53.68%  S->T 67.98%  H 59.99%  Best_H [67.98% 53.68% 59.99% | Iter-6000]
+Iter-[6200/66000]; loss: 10.676; kl:32.636; p_loss:0.029; rec:0.005; tc:0.821; gamma:0.006;
+Iter-[6400/66000]; loss: 10.719; kl:31.357; p_loss:0.027; rec:0.005; tc:0.822; gamma:0.006;
+GZSL Softmax:
+U->T 56.07%  S->T 67.00%  H 61.05%  Best_H [67.00% 56.07% 61.05% | Iter-6400]
+Iter-[6600/66000]; loss: 10.831; kl:30.992; p_loss:0.028; rec:0.005; tc:0.820; gamma:0.006;
+Iter-[6800/66000]; loss: 10.835; kl:31.638; p_loss:0.026; rec:0.005; tc:0.822; gamma:0.006;
+GZSL Softmax:
+U->T 55.30%  S->T 68.38%  H 61.15%  Best_H [68.38% 55.30% 61.15% | Iter-6800]
+Iter-[7000/66000]; loss: 12.105; kl:31.332; p_loss:0.024; rec:0.006; tc:0.822; gamma:0.006;
+Iter-[7200/66000]; loss: 10.295; kl:29.015; p_loss:0.021; rec:0.005; tc:0.823; gamma:0.006;
+GZSL Softmax:
+U->T 53.76%  S->T 72.04%  H 61.57%  Best_H [72.04% 53.76% 61.57% | Iter-7200]
+Iter-[7400/66000]; loss: 10.895; kl:27.651; p_loss:0.023; rec:0.005; tc:0.826; gamma:0.007;
+Iter-[7600/66000]; loss: 11.174; kl:29.812; p_loss:0.022; rec:0.005; tc:0.824; gamma:0.007;
+GZSL Softmax:
+U->T 56.38%  S->T 69.22%  H 62.15%  Best_H [69.22% 56.38% 62.15% | Iter-7600]
+Iter-[7800/66000]; loss: 11.760; kl:29.471; p_loss:0.022; rec:0.006; tc:0.826; gamma:0.007;
+Iter-[8000/66000]; loss: 11.001; kl:28.085; p_loss:0.018; rec:0.005; tc:0.826; gamma:0.007;
+GZSL Softmax:
+U->T 59.56%  S->T 66.45%  H 62.82%  Best_H [66.45% 59.56% 62.82% | Iter-8000]
+Iter-[8200/66000]; loss: 10.632; kl:28.130; p_loss:0.019; rec:0.005; tc:0.825; gamma:0.007;
+Iter-[8400/66000]; loss: 10.731; kl:27.491; p_loss:0.019; rec:0.005; tc:0.826; gamma:0.008;
+GZSL Softmax:
+U->T 59.45%  S->T 67.12%  H 63.05%  Best_H [67.12% 59.45% 63.05% | Iter-8400]
+Iter-[8600/66000]; loss: 10.472; kl:27.731; p_loss:0.018; rec:0.005; tc:0.828; gamma:0.008;
+Iter-[8800/66000]; loss: 10.688; kl:27.967; p_loss:0.015; rec:0.005; tc:0.829; gamma:0.008;
+GZSL Softmax:
+U->T 57.55%  S->T 70.37%  H 63.32%  Best_H [70.37% 57.55% 63.32% | Iter-8800]
+Iter-[9000/66000]; loss: 10.423; kl:25.585; p_loss:0.013; rec:0.005; tc:0.828; gamma:0.008;
+Iter-[9200/66000]; loss: 11.086; kl:25.405; p_loss:0.012; rec:0.005; tc:0.830; gamma:0.008;
+GZSL Softmax:
+U->T 60.82%  S->T 67.70%  H 64.08%  Best_H [67.70% 60.82% 64.08% | Iter-9200]
+Iter-[9400/66000]; loss: 10.623; kl:26.695; p_loss:0.015; rec:0.005; tc:0.827; gamma:0.008;
+Iter-[9600/66000]; loss: 11.587; kl:26.634; p_loss:0.014; rec:0.005; tc:0.829; gamma:0.009;
+GZSL Softmax:
+U->T 59.61%  S->T 70.20%  H 64.47%  Best_H [70.20% 59.61% 64.47% | Iter-9600]
+Iter-[9800/66000]; loss: 10.507; kl:27.241; p_loss:0.012; rec:0.005; tc:0.830; gamma:0.009;
+Iter-[10000/66000]; loss: 10.791; kl:24.749; p_loss:0.012; rec:0.005; tc:0.829; gamma:0.009;
+GZSL Softmax:
+U->T 59.83%  S->T 69.38%  H 64.25%  Best_H [70.20% 59.61% 64.47% | Iter-9600]
+Iter-[10200/66000]; loss: 11.322; kl:24.434; p_loss:0.011; rec:0.005; tc:0.831; gamma:0.009;
+Iter-[10400/66000]; loss: 10.554; kl:24.085; p_loss:0.010; rec:0.005; tc:0.831; gamma:0.009;
+GZSL Softmax:
+U->T 61.26%  S->T 68.94%  H 64.87%  Best_H [68.94% 61.26% 64.87% | Iter-10400]
+Iter-[10600/66000]; loss: 10.580; kl:23.048; p_loss:0.012; rec:0.005; tc:0.832; gamma:0.009;
+Iter-[10800/66000]; loss: 10.747; kl:22.353; p_loss:0.009; rec:0.005; tc:0.832; gamma:0.010;
+GZSL Softmax:
+U->T 61.25%  S->T 69.31%  H 65.03%  Best_H [69.31% 61.25% 65.03% | Iter-10800]
+Iter-[11000/66000]; loss: 10.976; kl:24.243; p_loss:0.010; rec:0.005; tc:0.832; gamma:0.010;
+Iter-[11200/66000]; loss: 11.254; kl:23.494; p_loss:0.009; rec:0.005; tc:0.833; gamma:0.010;
+GZSL Softmax:
+U->T 61.91%  S->T 68.67%  H 65.11%  Best_H [68.67% 61.91% 65.11% | Iter-11200]
+Iter-[11400/66000]; loss: 11.100; kl:22.782; p_loss:0.008; rec:0.005; tc:0.833; gamma:0.010;
+Iter-[11600/66000]; loss: 10.647; kl:22.001; p_loss:0.008; rec:0.005; tc:0.834; gamma:0.010;
+GZSL Softmax:
+U->T 61.21%  S->T 69.76%  H 65.20%  Best_H [69.76% 61.21% 65.20% | Iter-11600]
+Iter-[11800/66000]; loss: 10.780; kl:21.452; p_loss:0.009; rec:0.005; tc:0.834; gamma:0.011;
+Iter-[12000/66000]; loss: 11.510; kl:21.346; p_loss:0.008; rec:0.005; tc:0.833; gamma:0.011;
+GZSL Softmax:
+U->T 59.47%  S->T 72.19%  H 65.22%  Best_H [72.19% 59.47% 65.22% | Iter-12000]
+Iter-[12200/66000]; loss: 11.259; kl:20.882; p_loss:0.007; rec:0.005; tc:0.835; gamma:0.011;
+Iter-[12400/66000]; loss: 11.699; kl:23.307; p_loss:0.007; rec:0.005; tc:0.834; gamma:0.011;
+GZSL Softmax:
+U->T 59.91%  S->T 72.04%  H 65.41%  Best_H [72.04% 59.91% 65.41% | Iter-12400]
+Iter-[12600/66000]; loss: 11.152; kl:20.836; p_loss:0.006; rec:0.005; tc:0.834; gamma:0.011;
+Iter-[12800/66000]; loss: 10.057; kl:19.667; p_loss:0.005; rec:0.005; tc:0.834; gamma:0.011;
+GZSL Softmax:
+U->T 60.76%  S->T 71.99%  H 65.90%  Best_H [71.99% 60.76% 65.90% | Iter-12800]
+Iter-[13000/66000]; loss: 11.046; kl:20.128; p_loss:0.007; rec:0.005; tc:0.836; gamma:0.012;
+Iter-[13200/66000]; loss: 11.528; kl:21.586; p_loss:0.006; rec:0.005; tc:0.838; gamma:0.012;
+GZSL Softmax:
+U->T 61.26%  S->T 70.95%  H 65.75%  Best_H [71.99% 60.76% 65.90% | Iter-12800]
+Iter-[13400/66000]; loss: 11.037; kl:20.584; p_loss:0.007; rec:0.005; tc:0.846; gamma:0.012;
+Iter-[13600/66000]; loss: 10.546; kl:19.618; p_loss:0.006; rec:0.005; tc:0.863; gamma:0.012;
+GZSL Softmax:
+U->T 62.13%  S->T 71.05%  H 66.29%  Best_H [71.05% 62.13% 66.29% | Iter-13600]
+Iter-[13800/66000]; loss: 12.040; kl:21.216; p_loss:0.004; rec:0.006; tc:0.864; gamma:0.012;
+Iter-[14000/66000]; loss: 10.917; kl:19.750; p_loss:0.007; rec:0.005; tc:0.847; gamma:0.013;
+GZSL Softmax:
+U->T 63.78%  S->T 67.82%  H 65.74%  Best_H [71.05% 62.13% 66.29% | Iter-13600]
+Iter-[14200/66000]; loss: 10.982; kl:19.981; p_loss:0.004; rec:0.005; tc:0.843; gamma:0.013;
+Iter-[14400/66000]; loss: 10.468; kl:18.947; p_loss:0.004; rec:0.005; tc:0.841; gamma:0.013;
+GZSL Softmax:
+U->T 60.38%  S->T 72.11%  H 65.73%  Best_H [71.05% 62.13% 66.29% | Iter-13600]
+Iter-[14600/66000]; loss: 11.735; kl:20.911; p_loss:0.005; rec:0.005; tc:0.844; gamma:0.013;
+Iter-[14800/66000]; loss: 11.181; kl:19.163; p_loss:0.005; rec:0.005; tc:0.844; gamma:0.013;
+GZSL Softmax:
+U->T 62.67%  S->T 70.26%  H 66.25%  Best_H [71.05% 62.13% 66.29% | Iter-13600]
+Iter-[15000/66000]; loss: 10.935; kl:18.869; p_loss:0.004; rec:0.005; tc:0.848; gamma:0.013;
+Iter-[15200/66000]; loss: 10.941; kl:17.970; p_loss:0.004; rec:0.005; tc:0.846; gamma:0.014;
+GZSL Softmax:
+U->T 61.73%  S->T 72.23%  H 66.56%  Best_H [72.23% 61.73% 66.56% | Iter-15200]
+Iter-[15400/66000]; loss: 10.703; kl:17.915; p_loss:0.005; rec:0.005; tc:0.845; gamma:0.014;
+Iter-[15600/66000]; loss: 10.825; kl:17.142; p_loss:0.002; rec:0.005; tc:0.841; gamma:0.014;
+GZSL Softmax:
+U->T 62.55%  S->T 72.08%  H 66.98%  Best_H [72.08% 62.55% 66.98% | Iter-15600]
+Iter-[15800/66000]; loss: 10.732; kl:17.015; p_loss:0.005; rec:0.005; tc:0.842; gamma:0.014;
+Iter-[16000/66000]; loss: 11.014; kl:16.709; p_loss:0.004; rec:0.005; tc:0.840; gamma:0.014;
+GZSL Softmax:
+U->T 63.79%  S->T 70.30%  H 66.88%  Best_H [72.08% 62.55% 66.98% | Iter-15600]
+Iter-[16200/66000]; loss: 11.632; kl:17.826; p_loss:0.004; rec:0.005; tc:0.840; gamma:0.015;
+Iter-[16400/66000]; loss: 10.650; kl:16.878; p_loss:0.004; rec:0.005; tc:0.838; gamma:0.015;
+GZSL Softmax:
+U->T 64.63%  S->T 68.88%  H 66.69%  Best_H [72.08% 62.55% 66.98% | Iter-15600]
+Iter-[16600/66000]; loss: 11.565; kl:17.825; p_loss:0.003; rec:0.005; tc:0.839; gamma:0.015;
+Iter-[16800/66000]; loss: 11.298; kl:16.091; p_loss:0.003; rec:0.005; tc:0.839; gamma:0.015;
+GZSL Softmax:
+U->T 62.22%  S->T 73.27%  H 67.29%  Best_H [73.27% 62.22% 67.29% | Iter-16800]
+Iter-[17000/66000]; loss: 11.242; kl:16.066; p_loss:0.003; rec:0.005; tc:0.840; gamma:0.015;
+Iter-[17200/66000]; loss: 10.917; kl:15.304; p_loss:0.003; rec:0.005; tc:0.838; gamma:0.015;
+GZSL Softmax:
+U->T 65.02%  S->T 68.86%  H 66.88%  Best_H [73.27% 62.22% 67.29% | Iter-16800]
+Iter-[17400/66000]; loss: 11.182; kl:15.890; p_loss:0.004; rec:0.005; tc:0.839; gamma:0.016;
+Iter-[17600/66000]; loss: 10.825; kl:15.343; p_loss:0.002; rec:0.005; tc:0.839; gamma:0.016;
+GZSL Softmax:
+U->T 61.90%  S->T 73.58%  H 67.24%  Best_H [73.27% 62.22% 67.29% | Iter-16800]
+Iter-[17800/66000]; loss: 11.426; kl:15.477; p_loss:0.005; rec:0.005; tc:0.841; gamma:0.016;
+Iter-[18000/66000]; loss: 11.406; kl:16.241; p_loss:0.003; rec:0.005; tc:0.840; gamma:0.016;
+GZSL Softmax:
+U->T 62.87%  S->T 71.90%  H 67.08%  Best_H [73.27% 62.22% 67.29% | Iter-16800]
+Iter-[18200/66000]; loss: 10.844; kl:14.949; p_loss:0.002; rec:0.005; tc:0.840; gamma:0.016;
+Iter-[18400/66000]; loss: 11.006; kl:15.541; p_loss:0.002; rec:0.005; tc:0.841; gamma:0.017;
+GZSL Softmax:
+U->T 63.60%  S->T 71.88%  H 67.49%  Best_H [71.88% 63.60% 67.49% | Iter-18400]
+Iter-[18600/66000]; loss: 10.738; kl:14.941; p_loss:0.002; rec:0.005; tc:0.840; gamma:0.017;
+Iter-[18800/66000]; loss: 10.465; kl:13.903; p_loss:0.002; rec:0.005; tc:0.840; gamma:0.017;
+GZSL Softmax:
+U->T 64.00%  S->T 71.66%  H 67.61%  Best_H [71.66% 64.00% 67.61% | Iter-18800]
+Iter-[19000/66000]; loss: 11.162; kl:14.485; p_loss:0.002; rec:0.005; tc:0.841; gamma:0.017;
+Iter-[19200/66000]; loss: 11.192; kl:15.284; p_loss:0.002; rec:0.005; tc:0.840; gamma:0.017;
+GZSL Softmax:
+U->T 63.35%  S->T 73.23%  H 67.93%  Best_H [73.23% 63.35% 67.93% | Iter-19200]
+Iter-[19400/66000]; loss: 10.756; kl:14.563; p_loss:0.002; rec:0.005; tc:0.843; gamma:0.017;
+Iter-[19600/66000]; loss: 11.255; kl:14.281; p_loss:0.002; rec:0.005; tc:0.844; gamma:0.018;
+GZSL Softmax:
+U->T 65.09%  S->T 70.88%  H 67.86%  Best_H [73.23% 63.35% 67.93% | Iter-19200]
+Iter-[19800/66000]; loss: 10.654; kl:12.963; p_loss:0.003; rec:0.005; tc:0.846; gamma:0.018;
+Iter-[20000/66000]; loss: 10.315; kl:12.102; p_loss:0.001; rec:0.005; tc:0.844; gamma:0.018;
+GZSL Softmax:
+U->T 65.25%  S->T 71.06%  H 68.04%  Best_H [71.06% 65.25% 68.04% | Iter-20000]
+Iter-[20200/66000]; loss: 10.585; kl:14.309; p_loss:0.001; rec:0.005; tc:0.842; gamma:0.018;
+Iter-[20400/66000]; loss: 11.296; kl:13.230; p_loss:0.002; rec:0.005; tc:0.847; gamma:0.018;
+GZSL Softmax:
+U->T 65.47%  S->T 70.81%  H 68.04%  Best_H [71.06% 65.25% 68.04% | Iter-20000]
+Iter-[20600/66000]; loss: 10.450; kl:12.357; p_loss:0.001; rec:0.005; tc:0.846; gamma:0.019;
+Iter-[20800/66000]; loss: 10.718; kl:12.597; p_loss:0.001; rec:0.005; tc:0.843; gamma:0.019;
+GZSL Softmax:
+U->T 63.99%  S->T 73.54%  H 68.43%  Best_H [73.54% 63.99% 68.43% | Iter-20800]
+Iter-[21000/66000]; loss: 10.936; kl:12.624; p_loss:0.002; rec:0.005; tc:0.843; gamma:0.019;
+Iter-[21200/66000]; loss: 11.291; kl:12.990; p_loss:0.002; rec:0.005; tc:0.842; gamma:0.019;
+GZSL Softmax:
+U->T 64.30%  S->T 72.44%  H 68.13%  Best_H [73.54% 63.99% 68.43% | Iter-20800]
+Iter-[21400/66000]; loss: 10.665; kl:12.511; p_loss:0.001; rec:0.005; tc:0.842; gamma:0.019;
+Iter-[21600/66000]; loss: 10.172; kl:12.239; p_loss:0.001; rec:0.005; tc:0.840; gamma:0.019;
+GZSL Softmax:
+U->T 63.87%  S->T 73.49%  H 68.34%  Best_H [73.54% 63.99% 68.43% | Iter-20800]
+Iter-[21800/66000]; loss: 11.798; kl:12.532; p_loss:0.001; rec:0.005; tc:0.840; gamma:0.020;
+Iter-[22000/66000]; loss: 10.713; kl:11.918; p_loss:0.001; rec:0.005; tc:0.839; gamma:0.020;
+GZSL Softmax:
+U->T 63.31%  S->T 74.59%  H 68.49%  Best_H [74.59% 63.31% 68.49% | Iter-22000]
+Iter-[22200/66000]; loss: 11.663; kl:11.922; p_loss:0.002; rec:0.005; tc:0.840; gamma:0.020;
+Iter-[22400/66000]; loss: 10.317; kl:11.012; p_loss:0.001; rec:0.005; tc:0.840; gamma:0.020;
+GZSL Softmax:
+U->T 64.45%  S->T 72.80%  H 68.37%  Best_H [74.59% 63.31% 68.49% | Iter-22000]
+Iter-[22600/66000]; loss: 11.670; kl:12.708; p_loss:0.001; rec:0.005; tc:0.839; gamma:0.020;
+Iter-[22800/66000]; loss: 11.081; kl:11.277; p_loss:0.002; rec:0.005; tc:0.840; gamma:0.021;
+GZSL Softmax:
+U->T 62.77%  S->T 74.19%  H 68.01%  Best_H [74.59% 63.31% 68.49% | Iter-22000]
+Iter-[23000/66000]; loss: 10.798; kl:11.178; p_loss:0.002; rec:0.005; tc:0.838; gamma:0.021;
+Iter-[23200/66000]; loss: 11.514; kl:11.633; p_loss:0.001; rec:0.005; tc:0.839; gamma:0.021;
+GZSL Softmax:
+U->T 62.06%  S->T 75.65%  H 68.18%  Best_H [74.59% 63.31% 68.49% | Iter-22000]
+Iter-[23400/66000]; loss: 10.684; kl:11.209; p_loss:0.001; rec:0.005; tc:0.841; gamma:0.021;
+Iter-[23600/66000]; loss: 10.789; kl:11.285; p_loss:0.001; rec:0.005; tc:0.839; gamma:0.021;
+GZSL Softmax:
+U->T 62.89%  S->T 74.49%  H 68.20%  Best_H [74.59% 63.31% 68.49% | Iter-22000]
+Iter-[23800/66000]; loss: 10.575; kl:10.655; p_loss:0.001; rec:0.005; tc:0.839; gamma:0.021;
+Iter-[24000/66000]; loss: 10.754; kl:10.825; p_loss:0.001; rec:0.005; tc:0.839; gamma:0.022;
+GZSL Softmax:
+U->T 65.63%  S->T 71.74%  H 68.55%  Best_H [71.74% 65.63% 68.55% | Iter-24000]
+Iter-[24200/66000]; loss: 10.442; kl:11.076; p_loss:0.001; rec:0.005; tc:0.839; gamma:0.022;
+Iter-[24400/66000]; loss: 10.904; kl:10.251; p_loss:0.001; rec:0.005; tc:0.837; gamma:0.022;
+GZSL Softmax:
+U->T 63.83%  S->T 74.71%  H 68.84%  Best_H [74.71% 63.83% 68.84% | Iter-24400]
+Iter-[24600/66000]; loss: 10.768; kl:10.808; p_loss:0.001; rec:0.005; tc:0.839; gamma:0.022;
+Iter-[24800/66000]; loss: 10.819; kl:10.018; p_loss:0.000; rec:0.005; tc:0.840; gamma:0.022;
+GZSL Softmax:
+U->T 63.17%  S->T 75.65%  H 68.85%  Best_H [75.65% 63.17% 68.85% | Iter-24800]
+Iter-[25000/66000]; loss: 11.544; kl:11.864; p_loss:0.001; rec:0.005; tc:0.840; gamma:0.023;
+Iter-[25200/66000]; loss: 10.736; kl:10.155; p_loss:0.001; rec:0.005; tc:0.839; gamma:0.023;
+GZSL Softmax:
+U->T 64.58%  S->T 73.89%  H 68.92%  Best_H [73.89% 64.58% 68.92% | Iter-25200]
+Iter-[25400/66000]; loss: 10.461; kl:9.946; p_loss:0.000; rec:0.005; tc:0.840; gamma:0.023;
+Iter-[25600/66000]; loss: 11.011; kl:9.452; p_loss:0.000; rec:0.005; tc:0.839; gamma:0.023;
+GZSL Softmax:
+U->T 63.84%  S->T 73.68%  H 68.41%  Best_H [73.89% 64.58% 68.92% | Iter-25200]
+Iter-[25800/66000]; loss: 10.598; kl:9.476; p_loss:0.001; rec:0.005; tc:0.838; gamma:0.023;
+Iter-[26000/66000]; loss: 10.580; kl:9.559; p_loss:0.002; rec:0.005; tc:0.840; gamma:0.023;
+GZSL Softmax:
+U->T 64.39%  S->T 73.42%  H 68.61%  Best_H [73.89% 64.58% 68.92% | Iter-25200]
+Iter-[26200/66000]; loss: 9.536; kl:8.391; p_loss:0.001; rec:0.004; tc:0.841; gamma:0.024;
+Iter-[26400/66000]; loss: 11.102; kl:9.885; p_loss:0.001; rec:0.005; tc:0.842; gamma:0.024;
+GZSL Softmax:
+U->T 64.42%  S->T 74.03%  H 68.89%  Best_H [73.89% 64.58% 68.92% | Iter-25200]
+Iter-[26600/66000]; loss: 10.742; kl:10.430; p_loss:0.001; rec:0.005; tc:0.843; gamma:0.024;
+Iter-[26800/66000]; loss: 10.050; kl:8.306; p_loss:0.000; rec:0.005; tc:0.841; gamma:0.024;
+GZSL Softmax:
+U->T 62.84%  S->T 75.36%  H 68.53%  Best_H [73.89% 64.58% 68.92% | Iter-25200]
+Iter-[27000/66000]; loss: 9.930; kl:8.066; p_loss:0.002; rec:0.005; tc:0.839; gamma:0.024;
+Iter-[27200/66000]; loss: 11.020; kl:9.641; p_loss:0.001; rec:0.005; tc:0.842; gamma:0.025;
+GZSL Softmax:
+U->T 63.99%  S->T 75.12%  H 69.11%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[27400/66000]; loss: 10.197; kl:8.219; p_loss:0.000; rec:0.005; tc:0.840; gamma:0.025;
+Iter-[27600/66000]; loss: 10.864; kl:9.239; p_loss:0.001; rec:0.005; tc:0.840; gamma:0.025;
+GZSL Softmax:
+U->T 63.86%  S->T 74.51%  H 68.78%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[27800/66000]; loss: 11.209; kl:9.716; p_loss:0.001; rec:0.005; tc:0.841; gamma:0.025;
+Iter-[28000/66000]; loss: 11.725; kl:10.427; p_loss:0.001; rec:0.005; tc:0.839; gamma:0.025;
+GZSL Softmax:
+U->T 62.72%  S->T 75.98%  H 68.72%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[28200/66000]; loss: 10.166; kl:8.418; p_loss:0.001; rec:0.005; tc:0.839; gamma:0.025;
+Iter-[28400/66000]; loss: 9.926; kl:7.792; p_loss:0.001; rec:0.005; tc:0.837; gamma:0.026;
+GZSL Softmax:
+U->T 62.77%  S->T 75.62%  H 68.60%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[28600/66000]; loss: 10.850; kl:8.435; p_loss:0.001; rec:0.005; tc:0.838; gamma:0.026;
+Iter-[28800/66000]; loss: 10.739; kl:8.438; p_loss:0.001; rec:0.005; tc:0.839; gamma:0.026;
+GZSL Softmax:
+U->T 64.30%  S->T 73.59%  H 68.63%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[29000/66000]; loss: 10.770; kl:9.305; p_loss:0.001; rec:0.005; tc:0.838; gamma:0.026;
+Iter-[29200/66000]; loss: 10.762; kl:7.703; p_loss:0.000; rec:0.005; tc:0.839; gamma:0.026;
+GZSL Softmax:
+U->T 63.57%  S->T 74.42%  H 68.57%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[29400/66000]; loss: 11.540; kl:9.023; p_loss:0.000; rec:0.005; tc:0.839; gamma:0.026;
+Iter-[29600/66000]; loss: 10.506; kl:7.928; p_loss:0.001; rec:0.005; tc:0.843; gamma:0.027;
+GZSL Softmax:
+U->T 63.21%  S->T 75.62%  H 68.86%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[29800/66000]; loss: 11.246; kl:8.312; p_loss:0.001; rec:0.005; tc:0.839; gamma:0.027;
+Iter-[30000/66000]; loss: 10.753; kl:8.841; p_loss:0.001; rec:0.005; tc:0.843; gamma:0.027;
+GZSL Softmax:
+U->T 63.85%  S->T 75.20%  H 69.07%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[30200/66000]; loss: 10.633; kl:7.519; p_loss:0.001; rec:0.005; tc:0.843; gamma:0.027;
+Iter-[30400/66000]; loss: 10.015; kl:6.752; p_loss:0.000; rec:0.005; tc:0.840; gamma:0.027;
+GZSL Softmax:
+U->T 63.46%  S->T 75.45%  H 68.94%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[30600/66000]; loss: 11.243; kl:7.910; p_loss:0.000; rec:0.006; tc:0.844; gamma:0.028;
+Iter-[30800/66000]; loss: 10.524; kl:7.304; p_loss:0.000; rec:0.005; tc:0.845; gamma:0.028;
+GZSL Softmax:
+U->T 64.12%  S->T 74.55%  H 68.94%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[31000/66000]; loss: 10.670; kl:7.271; p_loss:0.001; rec:0.005; tc:0.839; gamma:0.028;
+Iter-[31200/66000]; loss: 10.926; kl:7.990; p_loss:0.001; rec:0.005; tc:0.839; gamma:0.028;
+GZSL Softmax:
+U->T 63.45%  S->T 74.84%  H 68.67%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[31400/66000]; loss: 10.636; kl:7.326; p_loss:0.000; rec:0.005; tc:0.838; gamma:0.028;
+Iter-[31600/66000]; loss: 10.605; kl:7.124; p_loss:0.001; rec:0.005; tc:0.837; gamma:0.028;
+GZSL Softmax:
+U->T 63.41%  S->T 74.96%  H 68.70%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[31800/66000]; loss: 11.065; kl:7.810; p_loss:0.002; rec:0.006; tc:0.837; gamma:0.029;
+Iter-[32000/66000]; loss: 10.735; kl:7.074; p_loss:0.000; rec:0.005; tc:0.838; gamma:0.029;
+GZSL Softmax:
+U->T 64.50%  S->T 74.00%  H 68.92%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[32200/66000]; loss: 10.833; kl:7.359; p_loss:0.000; rec:0.005; tc:0.838; gamma:0.029;
+Iter-[32400/66000]; loss: 10.304; kl:6.253; p_loss:0.001; rec:0.005; tc:0.841; gamma:0.029;
+GZSL Softmax:
+U->T 64.45%  S->T 74.12%  H 68.94%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[32600/66000]; loss: 10.799; kl:6.659; p_loss:0.001; rec:0.005; tc:0.843; gamma:0.029;
+Iter-[32800/66000]; loss: 10.267; kl:6.469; p_loss:0.001; rec:0.005; tc:0.846; gamma:0.030;
+GZSL Softmax:
+U->T 62.59%  S->T 76.70%  H 68.93%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[33000/66000]; loss: 10.147; kl:6.886; p_loss:0.000; rec:0.005; tc:0.846; gamma:0.030;
+Iter-[33200/66000]; loss: 11.269; kl:6.914; p_loss:0.001; rec:0.006; tc:0.849; gamma:0.030;
+GZSL Softmax:
+U->T 62.32%  S->T 75.97%  H 68.47%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[33400/66000]; loss: 10.948; kl:7.894; p_loss:0.001; rec:0.005; tc:0.849; gamma:0.030;
+Iter-[33600/66000]; loss: 10.204; kl:6.249; p_loss:0.000; rec:0.005; tc:0.848; gamma:0.030;
+GZSL Softmax:
+U->T 63.32%  S->T 74.18%  H 68.32%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[33800/66000]; loss: 10.558; kl:6.968; p_loss:0.001; rec:0.005; tc:0.845; gamma:0.030;
+Iter-[34000/66000]; loss: 9.673; kl:5.694; p_loss:0.001; rec:0.005; tc:0.846; gamma:0.031;
+GZSL Softmax:
+U->T 62.30%  S->T 76.32%  H 68.61%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[34200/66000]; loss: 11.103; kl:7.382; p_loss:0.001; rec:0.005; tc:0.849; gamma:0.031;
+Iter-[34400/66000]; loss: 10.138; kl:5.720; p_loss:0.001; rec:0.005; tc:0.842; gamma:0.031;
+GZSL Softmax:
+U->T 62.00%  S->T 75.69%  H 68.16%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[34600/66000]; loss: 10.392; kl:5.884; p_loss:0.001; rec:0.005; tc:0.842; gamma:0.031;
+Iter-[34800/66000]; loss: 10.003; kl:6.042; p_loss:0.000; rec:0.005; tc:0.840; gamma:0.031;
+GZSL Softmax:
+U->T 63.48%  S->T 73.85%  H 68.28%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[35000/66000]; loss: 10.541; kl:6.504; p_loss:0.001; rec:0.005; tc:0.839; gamma:0.032;
+Iter-[35200/66000]; loss: 11.186; kl:6.935; p_loss:0.001; rec:0.006; tc:0.841; gamma:0.032;
+GZSL Softmax:
+U->T 61.67%  S->T 76.38%  H 68.24%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[35400/66000]; loss: 10.878; kl:5.950; p_loss:0.000; rec:0.006; tc:0.839; gamma:0.032;
+Iter-[35600/66000]; loss: 11.003; kl:6.616; p_loss:0.000; rec:0.006; tc:0.842; gamma:0.032;
+GZSL Softmax:
+U->T 63.30%  S->T 74.92%  H 68.62%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[35800/66000]; loss: 10.730; kl:6.496; p_loss:0.000; rec:0.005; tc:0.848; gamma:0.032;
+Iter-[36000/66000]; loss: 10.511; kl:5.835; p_loss:0.000; rec:0.005; tc:0.852; gamma:0.032;
+GZSL Softmax:
+U->T 62.02%  S->T 75.61%  H 68.14%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[36200/66000]; loss: 10.847; kl:6.008; p_loss:0.001; rec:0.005; tc:0.863; gamma:0.033;
+Iter-[36400/66000]; loss: 10.608; kl:5.705; p_loss:0.001; rec:0.005; tc:0.867; gamma:0.033;
+GZSL Softmax:
+U->T 63.14%  S->T 74.26%  H 68.25%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[36600/66000]; loss: 10.275; kl:5.280; p_loss:0.000; rec:0.005; tc:0.861; gamma:0.033;
+Iter-[36800/66000]; loss: 9.871; kl:5.228; p_loss:0.000; rec:0.005; tc:0.860; gamma:0.033;
+GZSL Softmax:
+U->T 63.36%  S->T 74.12%  H 68.32%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[37000/66000]; loss: 10.351; kl:5.440; p_loss:0.000; rec:0.005; tc:0.858; gamma:0.033;
+Iter-[37200/66000]; loss: 10.321; kl:5.633; p_loss:0.000; rec:0.005; tc:0.853; gamma:0.034;
+GZSL Softmax:
+U->T 62.78%  S->T 74.55%  H 68.16%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[37400/66000]; loss: 10.814; kl:5.596; p_loss:0.001; rec:0.005; tc:0.848; gamma:0.034;
+Iter-[37600/66000]; loss: 11.164; kl:5.873; p_loss:0.000; rec:0.006; tc:0.852; gamma:0.034;
+GZSL Softmax:
+U->T 63.58%  S->T 74.76%  H 68.72%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[37800/66000]; loss: 10.871; kl:5.851; p_loss:0.001; rec:0.006; tc:0.847; gamma:0.034;
+Iter-[38000/66000]; loss: 10.928; kl:6.015; p_loss:0.000; rec:0.006; tc:0.848; gamma:0.034;
+GZSL Softmax:
+U->T 62.56%  S->T 74.11%  H 67.84%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[38200/66000]; loss: 10.261; kl:5.433; p_loss:0.000; rec:0.005; tc:0.843; gamma:0.034;
+Iter-[38400/66000]; loss: 10.708; kl:5.055; p_loss:0.001; rec:0.006; tc:0.838; gamma:0.035;
+GZSL Softmax:
+U->T 62.88%  S->T 73.71%  H 67.87%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[38600/66000]; loss: 10.210; kl:5.276; p_loss:0.000; rec:0.005; tc:0.837; gamma:0.035;
+Iter-[38800/66000]; loss: 10.995; kl:5.070; p_loss:0.001; rec:0.006; tc:0.837; gamma:0.035;
+GZSL Softmax:
+U->T 64.77%  S->T 72.00%  H 68.19%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[39000/66000]; loss: 11.448; kl:5.337; p_loss:0.000; rec:0.006; tc:0.838; gamma:0.035;
+Iter-[39200/66000]; loss: 10.127; kl:4.961; p_loss:0.000; rec:0.005; tc:0.840; gamma:0.035;
+GZSL Softmax:
+U->T 61.63%  S->T 75.52%  H 67.87%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[39400/66000]; loss: 10.520; kl:5.091; p_loss:0.000; rec:0.005; tc:0.847; gamma:0.035;
+Iter-[39600/66000]; loss: 10.129; kl:5.378; p_loss:0.000; rec:0.005; tc:0.860; gamma:0.036;
+GZSL Softmax:
+U->T 62.49%  S->T 75.67%  H 68.45%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[39800/66000]; loss: 10.382; kl:5.385; p_loss:0.000; rec:0.005; tc:0.873; gamma:0.036;
+Iter-[40000/66000]; loss: 10.045; kl:4.611; p_loss:0.000; rec:0.005; tc:0.868; gamma:0.036;
+GZSL Softmax:
+U->T 64.27%  S->T 72.72%  H 68.23%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[40200/66000]; loss: 10.816; kl:5.088; p_loss:0.000; rec:0.005; tc:0.864; gamma:0.036;
+Iter-[40400/66000]; loss: 10.032; kl:4.556; p_loss:0.000; rec:0.005; tc:0.860; gamma:0.036;
+GZSL Softmax:
+U->T 62.22%  S->T 74.60%  H 67.85%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[40600/66000]; loss: 10.356; kl:4.622; p_loss:0.000; rec:0.005; tc:0.863; gamma:0.037;
+Iter-[40800/66000]; loss: 10.834; kl:5.050; p_loss:0.001; rec:0.006; tc:0.854; gamma:0.037;
+GZSL Softmax:
+U->T 61.99%  S->T 74.56%  H 67.70%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[41000/66000]; loss: 10.956; kl:4.997; p_loss:0.000; rec:0.006; tc:0.857; gamma:0.037;
+Iter-[41200/66000]; loss: 10.945; kl:5.298; p_loss:0.001; rec:0.006; tc:0.853; gamma:0.037;
+GZSL Softmax:
+U->T 63.72%  S->T 72.30%  H 67.74%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[41400/66000]; loss: 10.211; kl:4.536; p_loss:0.001; rec:0.005; tc:0.842; gamma:0.037;
+Iter-[41600/66000]; loss: 11.601; kl:5.661; p_loss:0.002; rec:0.006; tc:0.844; gamma:0.037;
+GZSL Softmax:
+U->T 62.88%  S->T 74.94%  H 68.38%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[41800/66000]; loss: 10.011; kl:4.822; p_loss:0.001; rec:0.005; tc:0.842; gamma:0.038;
+Iter-[42000/66000]; loss: 10.094; kl:4.298; p_loss:0.000; rec:0.005; tc:0.840; gamma:0.038;
+GZSL Softmax:
+U->T 62.70%  S->T 74.56%  H 68.11%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[42200/66000]; loss: 10.435; kl:4.463; p_loss:0.000; rec:0.006; tc:0.839; gamma:0.038;
+Iter-[42400/66000]; loss: 10.630; kl:4.849; p_loss:0.000; rec:0.005; tc:0.837; gamma:0.038;
+GZSL Softmax:
+U->T 63.21%  S->T 73.23%  H 67.85%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[42600/66000]; loss: 10.386; kl:4.341; p_loss:0.000; rec:0.005; tc:0.838; gamma:0.038;
+Iter-[42800/66000]; loss: 10.788; kl:4.390; p_loss:0.000; rec:0.006; tc:0.840; gamma:0.038;
+GZSL Softmax:
+U->T 62.53%  S->T 74.56%  H 68.02%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[43000/66000]; loss: 9.855; kl:3.871; p_loss:0.000; rec:0.005; tc:0.851; gamma:0.039;
+Iter-[43200/66000]; loss: 11.146; kl:4.633; p_loss:0.001; rec:0.006; tc:0.877; gamma:0.039;
+GZSL Softmax:
+U->T 61.47%  S->T 75.70%  H 67.85%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[43400/66000]; loss: 10.887; kl:4.518; p_loss:0.000; rec:0.005; tc:0.882; gamma:0.039;
+Iter-[43600/66000]; loss: 10.717; kl:4.830; p_loss:0.001; rec:0.005; tc:0.874; gamma:0.039;
+GZSL Softmax:
+U->T 64.33%  S->T 72.13%  H 68.01%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[43800/66000]; loss: 9.897; kl:3.973; p_loss:0.000; rec:0.005; tc:0.869; gamma:0.039;
+Iter-[44000/66000]; loss: 10.481; kl:4.764; p_loss:0.001; rec:0.005; tc:0.857; gamma:0.040;
+GZSL Softmax:
+U->T 62.31%  S->T 75.55%  H 68.29%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[44200/66000]; loss: 10.546; kl:4.456; p_loss:0.001; rec:0.005; tc:0.859; gamma:0.040;
+Iter-[44400/66000]; loss: 10.041; kl:4.454; p_loss:0.000; rec:0.005; tc:0.856; gamma:0.040;
+GZSL Softmax:
+U->T 64.58%  S->T 71.26%  H 67.76%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[44600/66000]; loss: 10.004; kl:3.916; p_loss:0.000; rec:0.005; tc:0.853; gamma:0.040;
+Iter-[44800/66000]; loss: 9.925; kl:3.824; p_loss:0.004; rec:0.005; tc:0.864; gamma:0.040;
+GZSL Softmax:
+U->T 62.19%  S->T 75.07%  H 68.02%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[45000/66000]; loss: 10.082; kl:4.388; p_loss:0.000; rec:0.005; tc:0.843; gamma:0.041;
+Iter-[45200/66000]; loss: 10.540; kl:4.046; p_loss:0.002; rec:0.006; tc:0.838; gamma:0.041;
+GZSL Softmax:
+U->T 62.85%  S->T 73.64%  H 67.82%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[45400/66000]; loss: 10.262; kl:3.805; p_loss:0.000; rec:0.005; tc:0.841; gamma:0.041;
+Iter-[45600/66000]; loss: 10.565; kl:4.077; p_loss:0.001; rec:0.006; tc:0.840; gamma:0.041;
+GZSL Softmax:
+U->T 62.85%  S->T 74.44%  H 68.15%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[45800/66000]; loss: 10.694; kl:4.282; p_loss:0.000; rec:0.005; tc:0.839; gamma:0.041;
+Iter-[46000/66000]; loss: 10.701; kl:3.768; p_loss:0.000; rec:0.006; tc:0.836; gamma:0.041;
+GZSL Softmax:
+U->T 62.61%  S->T 75.84%  H 68.59%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[46200/66000]; loss: 10.327; kl:3.549; p_loss:0.000; rec:0.005; tc:0.837; gamma:0.042;
+Iter-[46400/66000]; loss: 10.226; kl:3.972; p_loss:0.000; rec:0.005; tc:0.839; gamma:0.042;
+GZSL Softmax:
+U->T 64.80%  S->T 71.76%  H 68.10%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[46600/66000]; loss: 10.436; kl:4.060; p_loss:0.001; rec:0.005; tc:0.843; gamma:0.042;
+Iter-[46800/66000]; loss: 11.283; kl:4.911; p_loss:0.001; rec:0.006; tc:0.852; gamma:0.042;
+GZSL Softmax:
+U->T 61.93%  S->T 75.84%  H 68.18%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[47000/66000]; loss: 11.017; kl:4.118; p_loss:0.000; rec:0.006; tc:0.857; gamma:0.042;
+Iter-[47200/66000]; loss: 10.336; kl:3.604; p_loss:0.000; rec:0.005; tc:0.860; gamma:0.043;
+GZSL Softmax:
+U->T 62.79%  S->T 72.92%  H 67.47%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[47400/66000]; loss: 10.520; kl:4.048; p_loss:0.000; rec:0.005; tc:0.863; gamma:0.043;
+Iter-[47600/66000]; loss: 10.739; kl:4.357; p_loss:0.001; rec:0.005; tc:0.859; gamma:0.043;
+GZSL Softmax:
+U->T 64.08%  S->T 73.28%  H 68.37%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[47800/66000]; loss: 10.502; kl:3.887; p_loss:0.000; rec:0.006; tc:0.860; gamma:0.043;
+Iter-[48000/66000]; loss: 10.340; kl:4.044; p_loss:0.000; rec:0.005; tc:0.857; gamma:0.043;
+GZSL Softmax:
+U->T 61.68%  S->T 75.31%  H 67.82%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[48200/66000]; loss: 10.731; kl:4.262; p_loss:0.000; rec:0.006; tc:0.865; gamma:0.043;
+Iter-[48400/66000]; loss: 10.290; kl:3.847; p_loss:0.001; rec:0.005; tc:0.865; gamma:0.044;
+GZSL Softmax:
+U->T 61.02%  S->T 76.02%  H 67.70%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[48600/66000]; loss: 10.058; kl:3.613; p_loss:0.000; rec:0.005; tc:0.855; gamma:0.044;
+Iter-[48800/66000]; loss: 10.402; kl:3.299; p_loss:0.001; rec:0.006; tc:0.837; gamma:0.044;
+GZSL Softmax:
+U->T 62.00%  S->T 76.26%  H 68.40%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[49000/66000]; loss: 11.484; kl:3.926; p_loss:0.000; rec:0.006; tc:0.841; gamma:0.044;
+Iter-[49200/66000]; loss: 10.262; kl:2.980; p_loss:0.001; rec:0.006; tc:0.842; gamma:0.044;
+GZSL Softmax:
+U->T 62.78%  S->T 74.05%  H 67.95%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[49400/66000]; loss: 9.832; kl:3.528; p_loss:0.037; rec:0.005; tc:0.842; gamma:0.045;
+Iter-[49600/66000]; loss: 10.496; kl:3.594; p_loss:0.040; rec:0.005; tc:0.846; gamma:0.045;
+GZSL Softmax:
+U->T 61.43%  S->T 74.94%  H 67.51%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[49800/66000]; loss: 11.081; kl:3.710; p_loss:0.039; rec:0.006; tc:0.838; gamma:0.045;
+Iter-[50000/66000]; loss: 10.001; kl:2.956; p_loss:0.037; rec:0.005; tc:0.844; gamma:0.045;
+GZSL Softmax:
+U->T 62.62%  S->T 74.56%  H 68.07%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[50200/66000]; loss: 11.020; kl:4.154; p_loss:0.040; rec:0.006; tc:0.847; gamma:0.045;
+Iter-[50400/66000]; loss: 9.891; kl:3.142; p_loss:0.036; rec:0.006; tc:0.850; gamma:0.045;
+GZSL Softmax:
+U->T 61.99%  S->T 74.53%  H 67.68%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[50600/66000]; loss: 10.009; kl:3.650; p_loss:0.038; rec:0.005; tc:0.851; gamma:0.045;
+Iter-[50800/66000]; loss: 10.657; kl:3.582; p_loss:0.038; rec:0.006; tc:0.846; gamma:0.046;
+GZSL Softmax:
+U->T 64.08%  S->T 74.65%  H 68.96%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[51000/66000]; loss: 10.583; kl:3.249; p_loss:0.042; rec:0.006; tc:0.851; gamma:0.046;
+Iter-[51200/66000]; loss: 10.325; kl:3.565; p_loss:0.037; rec:0.006; tc:0.847; gamma:0.046;
+GZSL Softmax:
+U->T 64.34%  S->T 72.59%  H 68.22%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[51400/66000]; loss: 10.622; kl:3.731; p_loss:0.035; rec:0.006; tc:0.852; gamma:0.046;
+Iter-[51600/66000]; loss: 10.304; kl:3.794; p_loss:0.036; rec:0.006; tc:0.858; gamma:0.046;
+GZSL Softmax:
+U->T 65.34%  S->T 70.20%  H 67.68%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[51800/66000]; loss: 10.783; kl:3.799; p_loss:0.038; rec:0.006; tc:0.875; gamma:0.047;
+Iter-[52000/66000]; loss: 10.358; kl:3.543; p_loss:0.037; rec:0.006; tc:0.880; gamma:0.047;
+GZSL Softmax:
+U->T 61.89%  S->T 76.04%  H 68.24%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[52200/66000]; loss: 10.838; kl:3.504; p_loss:0.041; rec:0.006; tc:0.869; gamma:0.047;
+Iter-[52400/66000]; loss: 10.907; kl:3.838; p_loss:0.038; rec:0.006; tc:0.862; gamma:0.047;
+GZSL Softmax:
+U->T 65.95%  S->T 70.19%  H 68.01%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[52600/66000]; loss: 10.229; kl:3.395; p_loss:0.038; rec:0.006; tc:0.858; gamma:0.047;
+Iter-[52800/66000]; loss: 11.351; kl:4.045; p_loss:0.037; rec:0.006; tc:0.860; gamma:0.048;
+GZSL Softmax:
+U->T 62.51%  S->T 74.35%  H 67.92%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[53000/66000]; loss: 10.607; kl:3.147; p_loss:0.038; rec:0.006; tc:0.859; gamma:0.048;
+Iter-[53200/66000]; loss: 10.593; kl:3.457; p_loss:0.041; rec:0.006; tc:0.858; gamma:0.048;
+GZSL Softmax:
+U->T 63.52%  S->T 71.19%  H 67.14%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[53400/66000]; loss: 10.135; kl:2.793; p_loss:0.038; rec:0.006; tc:0.849; gamma:0.048;
+Iter-[53600/66000]; loss: 11.258; kl:3.721; p_loss:0.042; rec:0.006; tc:0.864; gamma:0.048;
+GZSL Softmax:
+U->T 61.28%  S->T 76.35%  H 67.99%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[53800/66000]; loss: 10.701; kl:3.478; p_loss:0.035; rec:0.006; tc:0.863; gamma:0.048;
+Iter-[54000/66000]; loss: 10.466; kl:3.193; p_loss:0.039; rec:0.006; tc:0.859; gamma:0.049;
+GZSL Softmax:
+U->T 60.01%  S->T 76.95%  H 67.43%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[54200/66000]; loss: 11.128; kl:3.513; p_loss:0.040; rec:0.006; tc:0.861; gamma:0.049;
+Iter-[54400/66000]; loss: 10.653; kl:3.162; p_loss:0.040; rec:0.006; tc:0.873; gamma:0.049;
+GZSL Softmax:
+U->T 61.39%  S->T 74.31%  H 67.24%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[54600/66000]; loss: 10.692; kl:3.129; p_loss:0.041; rec:0.006; tc:0.887; gamma:0.049;
+Iter-[54800/66000]; loss: 10.938; kl:3.343; p_loss:0.040; rec:0.006; tc:0.871; gamma:0.049;
+GZSL Softmax:
+U->T 60.90%  S->T 77.29%  H 68.12%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[55000/66000]; loss: 10.183; kl:2.975; p_loss:0.036; rec:0.006; tc:0.887; gamma:0.050;
+Iter-[55200/66000]; loss: 10.782; kl:2.787; p_loss:0.039; rec:0.006; tc:0.879; gamma:0.050;
+GZSL Softmax:
+U->T 61.22%  S->T 76.03%  H 67.83%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[55400/66000]; loss: 10.858; kl:3.851; p_loss:0.036; rec:0.006; tc:0.891; gamma:0.050;
+Iter-[55600/66000]; loss: 10.518; kl:3.192; p_loss:0.035; rec:0.006; tc:0.888; gamma:0.050;
+GZSL Softmax:
+U->T 64.93%  S->T 70.35%  H 67.53%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[55800/66000]; loss: 10.533; kl:3.129; p_loss:0.036; rec:0.006; tc:0.887; gamma:0.050;
+Iter-[56000/66000]; loss: 10.529; kl:3.094; p_loss:0.043; rec:0.006; tc:0.895; gamma:0.050;
+GZSL Softmax:
+U->T 64.56%  S->T 71.04%  H 67.64%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[56200/66000]; loss: 11.763; kl:3.844; p_loss:0.041; rec:0.007; tc:0.902; gamma:0.051;
+Iter-[56400/66000]; loss: 11.007; kl:3.158; p_loss:0.036; rec:0.007; tc:0.898; gamma:0.051;
+GZSL Softmax:
+U->T 60.37%  S->T 75.71%  H 67.18%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[56600/66000]; loss: 11.080; kl:3.161; p_loss:0.038; rec:0.006; tc:0.899; gamma:0.051;
+Iter-[56800/66000]; loss: 9.645; kl:2.868; p_loss:0.039; rec:0.006; tc:0.888; gamma:0.051;
+GZSL Softmax:
+U->T 60.55%  S->T 74.93%  H 66.97%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[57000/66000]; loss: 10.159; kl:2.991; p_loss:0.038; rec:0.006; tc:0.879; gamma:0.051;
+Iter-[57200/66000]; loss: 10.939; kl:3.339; p_loss:0.043; rec:0.006; tc:0.876; gamma:0.052;
+GZSL Softmax:
+U->T 62.94%  S->T 70.78%  H 66.63%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[57400/66000]; loss: 11.216; kl:3.151; p_loss:0.039; rec:0.006; tc:0.875; gamma:0.052;
+Iter-[57600/66000]; loss: 10.726; kl:2.619; p_loss:0.040; rec:0.006; tc:0.883; gamma:0.052;
+GZSL Softmax:
+U->T 62.63%  S->T 74.08%  H 67.87%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[57800/66000]; loss: 10.221; kl:2.662; p_loss:0.036; rec:0.006; tc:0.888; gamma:0.052;
+Iter-[58000/66000]; loss: 10.290; kl:2.865; p_loss:0.041; rec:0.006; tc:0.889; gamma:0.052;
+GZSL Softmax:
+U->T 61.72%  S->T 72.70%  H 66.76%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[58200/66000]; loss: 10.380; kl:2.788; p_loss:0.037; rec:0.006; tc:0.895; gamma:0.052;
+Iter-[58400/66000]; loss: 10.488; kl:2.867; p_loss:0.039; rec:0.006; tc:0.891; gamma:0.053;
+GZSL Softmax:
+U->T 62.30%  S->T 73.99%  H 67.64%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[58600/66000]; loss: 10.477; kl:2.655; p_loss:0.038; rec:0.006; tc:0.900; gamma:0.053;
+Iter-[58800/66000]; loss: 10.267; kl:2.514; p_loss:0.038; rec:0.006; tc:0.909; gamma:0.053;
+GZSL Softmax:
+U->T 61.47%  S->T 74.66%  H 67.42%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[59000/66000]; loss: 10.276; kl:2.557; p_loss:0.038; rec:0.006; tc:0.916; gamma:0.053;
+Iter-[59200/66000]; loss: 10.447; kl:3.299; p_loss:0.035; rec:0.006; tc:0.914; gamma:0.053;
+GZSL Softmax:
+U->T 62.87%  S->T 73.57%  H 67.80%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[59400/66000]; loss: 9.667; kl:2.376; p_loss:0.041; rec:0.006; tc:0.927; gamma:0.054;
+Iter-[59600/66000]; loss: 10.969; kl:3.541; p_loss:0.036; rec:0.006; tc:0.930; gamma:0.054;
+GZSL Softmax:
+U->T 61.11%  S->T 72.46%  H 66.31%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[59800/66000]; loss: 11.617; kl:2.909; p_loss:0.039; rec:0.007; tc:0.923; gamma:0.054;
+Iter-[60000/66000]; loss: 11.388; kl:3.158; p_loss:0.034; rec:0.007; tc:0.909; gamma:0.054;
+GZSL Softmax:
+U->T 60.25%  S->T 73.50%  H 66.22%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[60200/66000]; loss: 10.520; kl:2.859; p_loss:0.043; rec:0.006; tc:0.907; gamma:0.054;
+Iter-[60400/66000]; loss: 10.399; kl:2.733; p_loss:0.036; rec:0.006; tc:0.908; gamma:0.054;
+GZSL Softmax:
+U->T 61.89%  S->T 71.93%  H 66.53%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[60600/66000]; loss: 10.015; kl:2.519; p_loss:0.043; rec:0.006; tc:0.891; gamma:0.054;
+Iter-[60800/66000]; loss: 11.019; kl:2.829; p_loss:0.040; rec:0.006; tc:0.878; gamma:0.055;
+GZSL Softmax:
+U->T 58.96%  S->T 74.24%  H 65.72%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[61000/66000]; loss: 10.882; kl:2.588; p_loss:0.038; rec:0.006; tc:0.882; gamma:0.055;
+Iter-[61200/66000]; loss: 10.487; kl:2.670; p_loss:0.037; rec:0.006; tc:0.882; gamma:0.055;
+GZSL Softmax:
+U->T 62.99%  S->T 71.45%  H 66.95%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[61400/66000]; loss: 11.132; kl:2.770; p_loss:0.038; rec:0.007; tc:0.891; gamma:0.055;
+Iter-[61600/66000]; loss: 10.224; kl:2.575; p_loss:0.039; rec:0.006; tc:0.877; gamma:0.055;
+GZSL Softmax:
+U->T 62.82%  S->T 71.53%  H 66.90%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[61800/66000]; loss: 11.304; kl:2.901; p_loss:0.041; rec:0.007; tc:0.869; gamma:0.056;
+Iter-[62000/66000]; loss: 10.903; kl:2.869; p_loss:0.040; rec:0.006; tc:0.868; gamma:0.056;
+GZSL Softmax:
+U->T 63.06%  S->T 70.06%  H 66.38%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[62200/66000]; loss: 10.905; kl:2.856; p_loss:0.039; rec:0.006; tc:0.889; gamma:0.056;
+Iter-[62400/66000]; loss: 10.172; kl:2.375; p_loss:0.040; rec:0.006; tc:0.905; gamma:0.056;
+GZSL Softmax:
+U->T 62.83%  S->T 70.77%  H 66.56%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[62600/66000]; loss: 10.918; kl:2.796; p_loss:0.035; rec:0.006; tc:0.915; gamma:0.056;
+Iter-[62800/66000]; loss: 11.245; kl:2.835; p_loss:0.039; rec:0.006; tc:0.917; gamma:0.057;
+GZSL Softmax:
+U->T 62.02%  S->T 72.86%  H 67.01%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[63000/66000]; loss: 10.429; kl:2.680; p_loss:0.038; rec:0.006; tc:0.914; gamma:0.057;
+Iter-[63200/66000]; loss: 10.933; kl:2.492; p_loss:0.038; rec:0.006; tc:0.916; gamma:0.057;
+GZSL Softmax:
+U->T 62.66%  S->T 70.45%  H 66.33%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[63400/66000]; loss: 10.334; kl:2.478; p_loss:0.041; rec:0.006; tc:0.919; gamma:0.057;
+Iter-[63600/66000]; loss: 10.421; kl:2.387; p_loss:0.039; rec:0.006; tc:0.909; gamma:0.057;
+GZSL Softmax:
+U->T 62.31%  S->T 71.53%  H 66.60%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[63800/66000]; loss: 11.137; kl:2.817; p_loss:0.035; rec:0.007; tc:0.897; gamma:0.057;
+Iter-[64000/66000]; loss: 10.425; kl:2.496; p_loss:0.036; rec:0.006; tc:0.888; gamma:0.058;
+GZSL Softmax:
+U->T 61.43%  S->T 70.27%  H 65.55%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[64200/66000]; loss: 10.774; kl:2.267; p_loss:0.040; rec:0.006; tc:0.883; gamma:0.058;
+Iter-[64400/66000]; loss: 11.069; kl:3.083; p_loss:0.037; rec:0.006; tc:0.896; gamma:0.058;
+GZSL Softmax:
+U->T 61.46%  S->T 70.15%  H 65.52%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[64600/66000]; loss: 10.337; kl:2.308; p_loss:0.035; rec:0.006; tc:0.899; gamma:0.058;
+Iter-[64800/66000]; loss: 10.580; kl:2.685; p_loss:0.036; rec:0.006; tc:0.885; gamma:0.058;
+GZSL Softmax:
+U->T 63.56%  S->T 69.87%  H 66.57%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[65000/66000]; loss: 11.348; kl:2.741; p_loss:0.036; rec:0.007; tc:0.872; gamma:0.059;
+Iter-[65200/66000]; loss: 10.637; kl:2.509; p_loss:0.039; rec:0.007; tc:0.876; gamma:0.059;
+GZSL Softmax:
+U->T 61.46%  S->T 72.75%  H 66.63%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[65400/66000]; loss: 10.937; kl:2.597; p_loss:0.038; rec:0.007; tc:0.863; gamma:0.059;
+Iter-[65600/66000]; loss: 10.622; kl:2.401; p_loss:0.036; rec:0.007; tc:0.855; gamma:0.059;
+GZSL Softmax:
+U->T 61.10%  S->T 70.19%  H 65.33%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
+Iter-[65800/66000]; loss: 10.236; kl:2.529; p_loss:0.038; rec:0.006; tc:0.858; gamma:0.059;
+Iter-[66000/66000]; loss: 9.965; kl:2.325; p_loss:0.041; rec:0.006; tc:0.867; gamma:0.059;
+GZSL Softmax:
+U->T 62.37%  S->T 70.53%  H 66.20%  Best_H [75.12% 63.99% 69.11% | Iter-27200]
